@@ -1,6 +1,6 @@
 # SIDIntel
 
-This is the official repository for SIDIntel, a strategic intelligence platform.
+The official repository for SIDIntel, a strategic intelligence platform.
 
 ## Installation
 
